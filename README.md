@@ -62,6 +62,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Roo Code](https://roocode.com/)** – Popular open-source VS Code extension (fork of Cline) with multi-model support and autonomous coding modes.
 - **[Qoder](https://qoder.com/)** – Agentic coding platform focused on deeper reasoning.
 - **[Aide](https://aide.dev/)** – Open-source AI-native IDE with proactive agents, built on top of VS Code.
+- **[Nimbalyst](https://nimbalyst.com)** – Open-source visual workspace for Codex and Claude Code with task management, parallel agent sessions, worktrees, visual editors with red/green review of agent edits in markdown, mockups, diagrams.
 
 ---
 
